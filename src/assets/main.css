@@ -8,8 +8,7 @@
   font-weight: normal;
 }
 
-a,
-.green {
+a, .green {
   text-decoration: none;
   color: hsla(160, 100%, 37%, 1);
   transition: 0.4s;
@@ -32,4 +31,9 @@ a,
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
   }
+}
+
+.content {
+  min-height: 100vh;
+  width: 100vw;
 }
