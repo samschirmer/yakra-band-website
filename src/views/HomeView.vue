@@ -13,7 +13,7 @@
         <code>
           infinityd: lp = {
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;1: "Black Ocean",
+            &nbsp;&nbsp;&nbsp;&nbsp;1: "<RouterLink class="track-link" to="track/black-ocean">Black Ocean</RouterLink>",
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;2: "Modulo",
             <br />
@@ -23,11 +23,11 @@
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;5: "Coalescence",
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;6: "fork()",
+            &nbsp;&nbsp;&nbsp;&nbsp;6: "<RouterLink class="track-link" to="track/fork">fork()</RouterLink>",
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;7: "SIGKILL",
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;8: "Evergreen"
+            &nbsp;&nbsp;&nbsp;&nbsp;8: "<RouterLink class="track-link" to="track/evergreen">Evergreen</RouterLink>",
             <br />
           }
         </code>

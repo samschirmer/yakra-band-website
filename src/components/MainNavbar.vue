@@ -18,7 +18,7 @@
 
 <script>
 export default {
-  name: 'Navbar',
+  name: 'MainNavbar',
   data() {
     return {
       isActive: false,
