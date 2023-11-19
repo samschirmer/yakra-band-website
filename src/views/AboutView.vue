@@ -20,6 +20,27 @@
       </p>
       <p>This is that something.</p>
 
+      <h1 class="green">Gear Used</h1>
+      <p>I'm a sucker for this stuff, so here it all is.</p>
+      <p>
+        All distorted rhythm guitars are an SG standard loaded with SD Black Winters. All clean guitars are a telecaster with Texas Specials. 
+        Lead guitars are split between the SG, a strat, a couple telecasters, and an old Electra LP copy. 
+      </p>
+      <p>
+        Guitars were recorded through a Marshall DSL20, an old 70s Univox 2x10, and an Orange 4x12 into Shure SM57s plugged into a Universal Audio Volt2. 
+        The only real pedals used were an EQD Westwood and a Way Huge Red Llama. 
+      </p>
+      <p>
+        All basslines were a Precision bass (with flats) recorded directly into the interface. Except one part of one song... that was an old lawsuit Harmony copy with rounds.
+      </p>  
+      <p>
+        Drums were all performed by Logan, the drummer that came with Logic Pro. I helped him out with a midi keyboard from time to time.
+      </p>
+      <p>
+        Recording and mixing were performed (poorly) by me in Logic Pro, while mastering was performed by an AI plugin from Exonic. 
+      </p>
+      <p>And that's the story of how you can take a bunch of money and turn it into a mediocre-sounding record.</p>
+
     </div>
   </div>
 </template>
@@ -31,6 +52,7 @@
     max-width: 800px;
     margin: auto;
     padding-top: 60px;
+    padding-bottom: 100px;
   }
 }
 </style>
