@@ -62,7 +62,6 @@ export default {
 @media (min-width: 1024px) {
   .music {
     padding-top: 60px;
-    margin-top: 60px;
     min-height: 100vh;
     padding-bottom: 100px;
   }

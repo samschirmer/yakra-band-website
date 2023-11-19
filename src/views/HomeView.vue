@@ -60,7 +60,7 @@ code {
 @media (min-width: 1024px) {
   .home {
     min-height: 100vh;
-    margin-top: 120px;
+    margin-top: 60px;
   }
 }
 </style>

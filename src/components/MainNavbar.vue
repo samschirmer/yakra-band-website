@@ -7,11 +7,11 @@
     </a>
         
     <div class="navbar-menu" :class="{ 'is-active': isActive }">
-        <RouterLink class="navbar-item is-expanded" to="/">Home</RouterLink>
-        <RouterLink class="navbar-item is-expanded" to="/music">Music</RouterLink>
-        <a class="navbar-item is-expanded" href="https://yakra.bandcamp.com">Store</a>
-        <RouterLink class="navbar-item is-expanded" to="/about">About</RouterLink>
-        <RouterLink class="navbar-item is-expanded" to="/contact">Contact</RouterLink>
+        <RouterLink class="navbar-item is-expanded" to="/">home</RouterLink>
+        <RouterLink class="navbar-item is-expanded" to="/music">music</RouterLink>
+        <a class="navbar-item is-expanded" href="https://yakra.bandcamp.com">store</a>
+        <RouterLink class="navbar-item is-expanded" to="/about">about</RouterLink>
+        <RouterLink class="navbar-item is-expanded" to="/contact">contact</RouterLink>
     </div>
   </nav>
 </template>
