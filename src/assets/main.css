@@ -9,7 +9,7 @@
 
 a, .green {
   text-decoration: none;
-  color: #00ff11;
+  color: #00ff11 !important;
   transition: 0.4s;
 }
 
