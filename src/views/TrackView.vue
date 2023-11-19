@@ -10,9 +10,9 @@
 
       <div id="cover" class="column is-half">
         <p>
-          #############<br />
+          ########################<br />
           # {{ title }}<br />
-          #############
+          ########################
         </p>
         <p><span v-html="lyrics"></span></p>
       </div>
