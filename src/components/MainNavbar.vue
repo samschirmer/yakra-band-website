@@ -27,7 +27,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
   .navbar-item {
     display: flex; 
     justify-content: center; 
@@ -38,5 +38,9 @@ export default {
   .navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover {
     background-color: #0a0a0a;
     color: #fff;
+  }
+
+  a {
+    text-decoration: none;
   }
 </style>
