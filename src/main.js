@@ -13,8 +13,9 @@ import { faInstagram } from '@fortawesome/free-brands-svg-icons'
 import { faSpotify } from '@fortawesome/free-brands-svg-icons'
 import { faYoutube } from '@fortawesome/free-brands-svg-icons'
 import { faBandcamp } from '@fortawesome/free-brands-svg-icons'
+import { faSoundcloud } from '@fortawesome/free-brands-svg-icons'
 
-library.add(faInstagram, faSpotify, faYoutube, faBandcamp)
+library.add(faInstagram, faSpotify, faYoutube, faBandcamp, faSoundcloud)
 
 const app = createApp(App)
 

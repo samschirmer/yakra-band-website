@@ -3,7 +3,7 @@
     <h1 class="green">Where to Find Music</h1>
     <div>
       <p>
-        Spotify, Bandcamp, Youtube, or just email me and I'll send you the files, I don't care. 
+        Spotify, Soundcloud, Bandcamp, Youtube, or just email me and I'll send you the files, I don't care. 
       </p>
     </div>
   </div>

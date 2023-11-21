@@ -15,6 +15,9 @@
       <a href="https://spotify.com/Yakra" class="icon">
         <font-awesome-icon icon="fa-brands fa-spotify" size="2xl" style="color: #ffffff;"></font-awesome-icon>
       </a>
+      <a href="https://spotify.com/Yakra" class="icon">
+        <font-awesome-icon icon="fa-brands fa-soundcloud" size="2xl" style="color: #ffffff;"></font-awesome-icon>
+      </a>
       <a href="https://yakra.bandcamp.com" class="icon">
         <font-awesome-icon icon="fa-brands fa-bandcamp" size="2xl" style="color: #ffffff;"></font-awesome-icon>
       </a>
