@@ -3,7 +3,7 @@
     <div class="columns">
 
       <div id="cover" class="column is-half">
-        <figure class="image">
+        <figure class="image track-art">
             <img :src="trackImg" :alt="title">
         </figure>
       </div>
@@ -59,6 +59,8 @@ export default {
 </script>
 
 <style>
+.columns { max-width: 100%; }
+
 @media (min-width: 1024px) {
   .music {
     padding-top: 60px;

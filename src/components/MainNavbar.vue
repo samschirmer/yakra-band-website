@@ -35,6 +35,14 @@ export default {
     width: 100%;
   }
 
+  .navbar-menu {
+    background-color: #000 !important;
+  }
+
+  .navbar {
+    max-width: 100vw;
+  }
+
   .navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover {
     background-color: #0a0a0a;
     color: #fff;

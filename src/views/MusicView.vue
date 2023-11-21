@@ -6,6 +6,8 @@
         Currently, all tracks are available on <a href="https://yakra.bandcamp.com/album/infinityd">Bandcamp</a>. 
         <br />
         You will soon find everything on Spotify, Soundcloud, and YouTube.  
+        <br />
+        Also, physical media will eventually happen. 
       </p>
     </div>
   </div>

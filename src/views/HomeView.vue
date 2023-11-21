@@ -1,7 +1,7 @@
 <template>
   <div class="home content">
 
-    <div class="columns">
+    <div class="columns is-gapless">
 
       <div id="cover" class="column is-half">
         <figure class="image">
