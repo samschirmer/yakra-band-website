@@ -3,7 +3,9 @@
     <h1 class="green">Where to Find Music</h1>
     <div>
       <p>
-        Spotify, Soundcloud, Bandcamp, Youtube, or just email me and I'll send you the files, I don't care. 
+        Currently, all tracks are available on <a href="https://yakra.bandcamp.com/album/infinityd">Bandcamp</a>. 
+        <br />
+        You will soon find everything on Spotify, Soundcloud, and YouTube.  
       </p>
     </div>
   </div>
