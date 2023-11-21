@@ -3,7 +3,7 @@
     <h1 class="green">About Yakra</h1>
     <div>
       <p>
-        Yakra is a name that comes from an ancient story about a boy that learned his planet was fated to be consumed by an intergalactic parasite. 
+        Yakra is a name that comes from an ancient story about a boy that discovered his planet was fated to be consumed by an intergalactic parasite. 
         Upon learning this, he assembled a party and set out to kill the space leech, at great expense to himself and others he loved. 
         Yakra was the name of a beast he slew on his journey.
       </p>
